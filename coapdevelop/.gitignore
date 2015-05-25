@@ -1,0 +1,18 @@
+# compiled Python
+*.pyc
+
+# Doxygen documentation
+docs
+
+# Release
+build
+dist
+MANIFEST
+
+# testing
+*.log
+__pycache__
+
+*.pcap
+test_report.xml
+/*.dblite
